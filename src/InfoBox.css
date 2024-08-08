@@ -1,0 +1,10 @@
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.weatherInfo {
+    font-size: 18px;
+    text-align: left;
+    padding: 3px 10px;
+}
